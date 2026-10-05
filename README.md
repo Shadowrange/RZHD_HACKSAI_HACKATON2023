@@ -1,3 +1,5 @@
+> **Команда:** тимлид — [Shadowrange](https://github.com/Shadowrange). ML-модель + backend на FastAPI (`/backend`), исследование и обучение — `rzdHack.ipynb`, `/ml`.
+
 ## РЖД Хакатон. Координация пропуска вагонопотока
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
